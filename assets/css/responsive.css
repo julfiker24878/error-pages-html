@@ -1,0 +1,12 @@
+@media screen and (max-width: 991px) {
+
+    .error-img img {
+        height: 350px;
+        object-fit: cover;
+    }
+
+    .error-content{
+        text-align: center;
+    }
+
+}
